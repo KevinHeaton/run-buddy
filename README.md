@@ -12,3 +12,5 @@ https://kevinheaton.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Kevin Heaton
+
+# Run Buddy Inc.
